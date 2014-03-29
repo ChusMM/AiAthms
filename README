@@ -1,0 +1,10 @@
+Requisites
+----------------------
+python-pygraph
+
+
+Execution Instructions
+-----------------------
+
+$ cd exec/
+$ python interfaz.py
